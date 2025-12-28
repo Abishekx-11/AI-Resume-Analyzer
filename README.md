@@ -19,7 +19,7 @@ An AI-powered web application that analyzes resumes and provides instant feedbac
 - **Backend:** Flask (Python)
 - **AI:** Google Gemini API
 - **PDF Processing:** PyPDF2
-- **Frontend:** HTML, CSS, JavaScript
+- **Frontend:** HTML, CSS
 
 
 
