@@ -41,6 +41,15 @@ ai-resume-analyzer/
 └── uploads/              # Temporary file storage (auto-deleted)
 ```
 
+## ⚙️ API Key Setup
+
+Create a file named `configure.py` in the project root directory:
+```python
+API_KEY = "PASTE_YOUR_GEMINI_API_KEY_HERE"
+```
+
+
+
 ## Usage 🚀
 
 1. **Run the application**
