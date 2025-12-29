@@ -63,6 +63,12 @@ python app.py
 - Click "Analyze Resume"
 - View AI-generated analysis!
 
+## 🚀 Live Demo
+
+Check out the live application here: [AI Resume Analyzer](https://ai-resume-analyzer-al.onrender.com)
+
+> **Note:** The app may take 30-60 seconds to load initially.
+
 ## Screenshots 📸
 
 <img width="1573" height="823" alt="image" src="https://github.com/user-attachments/assets/aa4f0db8-ca39-46ac-a4cc-a46da05c0734" />
